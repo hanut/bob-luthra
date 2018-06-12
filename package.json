@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "git@github.com:hanut/bob-luthra.git",
   "author": "Hanut Singh Gusain <hanutsingh@gmail.com> [http://www.hanutsingh.in]",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chance": "^1.0.16",
+    "mocha": "^5.2.0"
+  }
 }
